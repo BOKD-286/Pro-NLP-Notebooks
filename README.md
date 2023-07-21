@@ -1,1 +1,1 @@
-# Pro-NLP-Notebooks\nThe resources stored in this repository cover data science topics
+# Pro-NLP-Notebooks\nThe resources stored in this repository cover data science topics applied to Natural Language P
