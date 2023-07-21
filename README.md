@@ -1,1 +1,1 @@
-# Pro-NLP-Notebooks\nThe resources stored in this rep
+# Pro-NLP-Notebooks\nThe resources stored in this repository cover data science topics
