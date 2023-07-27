@@ -1,1 +1,1 @@
-# Pro-NLP-Notebooks\nThe resources stored in this repository cover data science topics applied to Natural Language Processing (NLP).\n\n- **01-Introduction_NLP:** Introductory material to general NLP preprocessing and classification tasks. Watch the tutorial [here](htt
+# Pro-NLP-Notebooks\nThe resources stored in this repository cover data science topics applied to Natural Language Processing (NLP).\n\n- **01-Introduction_NLP:** Introductory material to general NLP preprocessing and classification tasks. Watch the tutorial [here](https://www.youtube.com/watch?v=
